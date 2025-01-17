@@ -1,0 +1,8 @@
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+laravel-auth.sublime-workspace
+laravel-auth.sublime-project
+laravel-auth.code-workspace
+kamecode
