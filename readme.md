@@ -107,4 +107,4 @@ Toda la información devuelta por los servicios REST está en formato JSON.
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/usuario/proyecto-sol-artificial.git
+   git clone https://github.com/matiferra/amaneceres_internacionales.git
