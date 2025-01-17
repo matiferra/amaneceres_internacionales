@@ -30,7 +30,7 @@ El proyecto consta de las siguientes partes:
   - Transistores IRF 530N
   - Fuente de alimentación 12v
   - Protoboard
-  - Conductores macho-macho
+  - Conductores macho-macho - macho-hembra
 
 ---
 
